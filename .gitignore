@@ -1,0 +1,21 @@
+# C Build Artifacts
+build/
+*.o
+*.out
+*.exe
+*.so
+*.a
+*.dylib
+
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+ENV/
+.idea/
+.vscode/
+
+# System Files
+.DS_Store
+Thumbs.db
